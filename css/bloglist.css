@@ -1,0 +1,106 @@
+.barner {
+    margin-top: 10px;
+    background-image: url(../image/blog/img-barner-about.png);
+    height: 275px;
+  }
+  .content-barner {
+    font-size: 45px;
+    color: white;
+    padding-top: 70px;
+  }
+  .deatil-content {
+    display: flex;
+  }
+  
+  .content-detail {
+    background-color: faf9f7;
+  }
+  .list-item {
+      margin-top: 110px;
+  }
+  .date-related {
+    margin: -65px 310px;
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background: white;
+  }
+  .text-one {
+    font-size: 19px;
+    margin-top: 100px;
+  }
+  .text-two {
+    font-size: 15px;
+    margin-top: 30px;
+  }
+  .text-three {
+    font-size: 15px;
+    margin-top: 30px;
+    color: #569601;
+  }
+  .list-item2 {
+    margin-top: 30px;
+  }
+  .one-next {
+    text-align: center;
+  }
+  .next {
+    margin-top: 60px;
+  }
+
+  .newsletters {
+    background-image: url("../image/about-us/newsletter.png");
+    height: 239px;
+    display: flex;
+    margin-top: 110px;
+  }
+  .newsletter-title {
+    text-align: center;
+  }
+  .out-newsletter {
+    margin-top: -180px;
+    font-size: 35px;
+    color: black;
+    padding-top: 90px;
+    padding-left: 14px;
+  }
+  .content-newsletter {
+    font-size: 18px;
+    color: #63665a;
+  }
+  .organic-newsletters {
+    font-family: "Dancing Script", cursive;
+    font-size: 114px;
+    opacity: 0.2;
+  }
+  .newsletter-email {
+    border-radius: 50px;
+    border: 1px solid white;
+    height: 53px;
+  
+    margin-top: 90px;
+  }
+  .content-email-address {
+    padding-top: 7px;
+  }
+  .content-email-address {
+    padding-top: 7px;
+  }
+  .title-instagrams {
+    margin-top: 72px;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+  }
+  .organic-instagrams {
+    font-family: "Dancing Script", cursive;
+    font-size: 114px;
+    opacity: 0.2;
+    display: flex;
+    justify-content: center;
+  }
+  .instagrams {
+    justify-content: center;
+    margin-top: -100px;
+  }
+  

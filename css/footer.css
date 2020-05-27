@@ -1,0 +1,14 @@
+.footer {
+  background-image: url(../image/about-us/footer.png);
+  height: 93px;
+ 
+}
+.title-footer {
+  padding-top: 30px;
+}
+.bank {
+   display: flex;
+   justify-content: center;
+   margin-top: 30px;
+
+}

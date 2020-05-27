@@ -1,0 +1,265 @@
+
+
+   
+.img-book {
+background-image: url("../image/about-us/img-barner-about.png");
+height: 273px;
+}
+.content-backgrounnd {
+    margin-top: -91px;
+}
+.home-book {
+    display: flex;
+}
+.about-book {
+    font-size: 45px;
+    color: white;
+    padding-top: 77px;
+}
+.home-book {
+    font-size: 14px;
+    color: white;
+}
+.wellcome-content {
+color: #569601;
+font-size: 35px;
+margin-top: 110px;
+}
+.content2 {
+font-size: 25px;
+margin-top: 47px;
+}
+
+.content3 {
+font-size: 18px;
+margin-top: 50px;
+}
+
+.content4 {
+margin-top: 68px;
+font-size: 18px;
+}
+span .content2 {
+color: #569601;
+text-decoration: underline;
+}
+.suport {
+    
+background-color: #faf9f7;
+margin-top: 210px;
+}
+.content1-introduce {
+    margin-top: 30px;
+}
+.content1-suport {
+font-size: 28px;
+}
+
+.content2-suport {
+margin-top: 20px;
+}
+.content-3-suport {
+    margin-top: 30px;
+text-align: center;
+border-radius: 50px;
+background: #73ad21;
+padding: 10px;
+width: 150px;
+height: 42px;
+}
+
+.free-product {
+    margin-top: 100px;
+box-shadow: 0px 4px 10px #f6f5f3;
+}
+.money-product {
+    margin-top: 100px;
+    box-shadow: 0px 4px 10px #f6f5f3;
+}
+.support-product {
+    margin-top: 100px;
+    box-shadow: 0px 4px 10px #f6f5f3;
+}
+.img-free {
+margin-top: 43px;
+}
+.content1-free-product {
+margin-top: 37px;
+font-size: 20px;
+color: #99d1eb;
+display: flex;
+justify-content: center;
+}
+
+.content2-free-product {
+font-size: 15px;
+
+margin-top: 25px;
+display: flex;
+justify-content: center;
+text-align: center;
+}
+
+.img-money {
+box-shadow: 0px 4px 9px;
+}
+.why-choose {
+    margin-top: 131px;
+}
+.content1-money {
+margin-top: 28px;
+font-size: 20px;
+color: #99d1eb;
+
+text-align: center;
+}
+.content2-money {
+margin-top: 28px;
+font-size: 15px;
+text-align: center;
+}
+.content-backgrounnd {
+    background-color: #faf9f7;
+}
+
+.out-new-selecter {
+background-color: #81b03c;
+height: 283px;
+}
+
+.img-support {
+margin-top: 43px;
+}
+.content1-support {
+font-size: 20px;
+color: #99d1eb;
+margin-top: 37px;
+margin-left: 40px;
+}
+
+.content2-support {
+margin-top: 25px;
+text-align: center;
+}
+
+.content-introduce {
+margin-top: 30px;
+}
+.content-two-introduce {
+margin-top: 50px;
+}
+.content-three-introduce {
+margin-top: 18px;
+color: #569601;
+}
+.girl-introduce {
+display: flex;
+padding-top: 29px;
+}
+
+.img2-introduce {
+margin-left: 35px;
+}
+.img3-introduce {
+margin-left: 35px;
+}
+.newsletters {
+    background-image: url("../image/about-us/newsletter.png");
+    height: 239px;
+    display: flex;
+}
+.newsletter-title {
+    text-align: center;
+}
+.out-newsletter {
+    margin-top: -180px;
+    font-size: 35px;
+    color: black;
+    padding-top: 90px;
+    padding-left: 14px; 
+}
+.content-newsletter {
+    font-size: 18px;
+    color: #63665a;
+}
+
+
+
+.circle1 {
+margin: -100px 0px 0px -20px;
+width: 100px;
+height: 100px;
+background: #95ae49;
+-moz-border-radius: 50px;
+-webkit-border-radius: 50px;
+--border-radius: 50px;
+border-radius: 50px;
+position: absolute;
+z-index: 1;
+}
+.circle2 {
+margin: -106px -12px;
+width: 105px;
+height: 105px;
+background: #e1d6c9;
+-moz-border-radius: 50px;
+-webkit-border-radius: 50px;
+--border-radius: 50px;
+border-radius: 50px;
+position: absolute;
+z-index: 1;
+}
+
+.circle3 {
+margin: -106px -8px;
+width: 105px;
+height: 105px;
+background: #e1d6c9;
+-moz-border-radius: 50px;
+-webkit-border-radius: 50px;
+--border-radius: 50px;
+border-radius: 50px;
+position: absolute;
+z-index: 1;
+}
+.title-instagrams {
+    margin-top: 72px;
+font-size: 36px;
+display: flex;
+justify-content: center;
+}
+.content-fruits {
+font-size: 14px;
+margin-top: 56px;
+}
+.newsletter-email {
+    border-radius: 50px;
+    border: 1px solid white;
+    height: 53px;
+    
+    margin-top: 90px;
+}
+.content-email-address {
+    padding-top: 13px;
+}
+.organic-newsletters {
+    font-family: 'Dancing Script', cursive;
+    font-size: 114px;
+    opacity: 0.2;
+}
+.organic-instagrams {
+    font-family: 'Dancing Script', cursive;
+    font-size: 114px;
+    opacity: 0.2;
+    display: flex;
+    justify-content: center;
+}
+.instagrams {
+justify-content: center;
+
+ margin-top: -100px;
+
+}
+.fruits {
+ margin-top: 30px;   
+}
